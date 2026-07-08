@@ -178,9 +178,6 @@ npm run build
 GitHub:
 https://github.com/rishabhpandey-2005
 
-LinkedIn:
-(Add your LinkedIn URL)
-
 ---
 
 ## ⭐ If you like this project
